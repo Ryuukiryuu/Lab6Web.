@@ -1,8 +1,8 @@
-**Nama:** Wahyu Andika
-**Kelas:** TI.24.A2
-**Mata Kuliah:** Pemrograman Web
-**Dosen Pengampu:** Agung Nugroho, S.Kom., M.Kom
-**Universitas Pelita Bangsa**
+**Nama   :** Wahyu Andika  
+**NIM    :** 312410182  
+**Kelas  :** TI.24.A2  
+**Matkul :** Pemrograman Web 1  
+**Dosen Pengampu :** Agung Nugroho, S.Kom., M.Kom
 
 ---
 
